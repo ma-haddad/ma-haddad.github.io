@@ -2,9 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p>Assistant Professor of Atomic and Molecular Physics</p>
-          <p>Department of Physics, Yazd University</p>
-
+subtitle: <p>Assistant Professor of Atomic and Molecular Physics, Department of Physics, Yazd University </p>
+          
 profile:
   align: right
   image: prof_pic.jpg
