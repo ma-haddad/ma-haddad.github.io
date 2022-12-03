@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /Phd/
-title: Ph.D thesis
-description: Details about my PhD thesis
+title: Ph.D. Thesis
+description: Details about my Ph.D. Thesis
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 <h3><strong>Cavity Ring-Down Laser Spectroscopy of Carbon-Chain Molecules</strong></h3>
 
