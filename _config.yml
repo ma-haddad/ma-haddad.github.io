@@ -73,10 +73,10 @@ twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: https://scholar.google.com/citations?hl=en&user=v0HTET8AAAAJ # your Google Scholar ID
+scholar_userid: v0HTET8AAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: https://orcid.org/0000-0003-2542-0485 # your ORCID ID
+orcid_id: 0000-0003-2542-0485 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: https://publons.com/wos-op/researcher/2276357/mohammad-ali-haddad/ # your ID on Publons
