@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor of Atomic and Molecular Physics,
-          Department of Physics, Yazd University
+subtitle: <p>Assistant Professor of Atomic and Molecular Physics</p>
+          <p>Department of Physics, Yazd University</p>
 
 profile:
   align: right
@@ -12,7 +12,9 @@ profile:
   address: >
     <p>Faculty of Science</p>
     <p>Department of Physics</p>
-    <p>Yazd University, Yazd, Iran</p>
+    <p>Yazd University</p>
+    <p>University Blvd, Safayieh, Yazd, Iran</p>
+    <p>PO Box: 8915818411</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
