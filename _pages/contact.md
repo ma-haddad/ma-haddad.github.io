@@ -2,21 +2,23 @@
 layout: page
 permalink: /contact/
 title: Contact
-description: How to contact me?.
+description: I am here:
 nav: true
 nav_order: 4
 ---
+ <p><strong>Mohammad Ali Haddad</strong><br />
+Department of&nbsp;Physics<br />
+Yazd University,&nbsp;University Blvd &ndash; Safayieh<br />
+PO Box: 89195 &ndash; 741<br />
+Yazd, Iran<br />
+Room nr: 28<br />
+Phone: +98 -35-31233007&nbsp;<br />
+Emails:&nbsp;<a href="mailto:mahaddad@yazd.ac.ir">mahaddad@yazd.ac.ir</a><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="mailto:mahaddad@ymail.com">mahaddad@ymail.com</a>&nbsp;</p>
 
-<div class="elementor-element elementor-element-6efabfec elementor-position-left elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="6efabfec" data-element_type="widget" data-widget_type="icon-box.default">&nbsp;</div>
-<div class="elementor-element elementor-element-478c2b53 elementor-position-left elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="478c2b53" data-element_type="widget" data-widget_type="icon-box.default">
-<div class="elementor-widget-container">
-<div class="elementor-icon-box-wrapper">
-<div class="elementor-icon-box-content">
-<p><strong>Mohammad Ali Haddad</strong></p>
-<p>Department of&nbsp;Physics<br />Yazd University<br />University Blvd &ndash; Safayieh<br />PO Box: 89195 &ndash; 741<br />Yazd, Iran<br />Room nr: 28<br />Phone: +98 -35-31233007 <br />Emails:&nbsp;<a href="mailto:mahaddad@yazd.ac.ir">mahaddad@yazd.ac.ir<br /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="mailto:mahaddad@ymail.com">mahaddad@ymail.com</a>&nbsp;</p>
-<p><strong>Working hours</strong></p>
-<p>Saturday- Thursday: 8:00-18:30 Hrs <br />(Phone until 17:30 Hrs)</p>
-</div>
-</div>
-</div>
-</div>
+<p>&nbsp;</p>
+
+<p><strong>Working hours</strong><br />
+Saturday- Thursday: 8:00-18:30 Hrs&nbsp;<br />
+(Phone until 17:30 Hrs)</p>
+ 
