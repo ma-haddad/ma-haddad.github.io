@@ -13,8 +13,7 @@ nav_order: 4
 <div class="elementor-icon-box-wrapper">
 <div class="elementor-icon-box-content">
 <p><strong>Mohammad Ali Haddad</strong></p>
-<p>Department of&nbsp;Physics<br />Yazd University<br />University Blvd &ndash; Safayieh<br />PO Box: 89195 &ndash; 741<br />Yazd, Iran<br />Room nr: 28<br />Phone: +98 -35-31233007 <br />Emails:&nbsp;<a href="mailto:mahaddad@yazd.ac.ir">mahaddad@yazd.ac.ir<br />mahaddad@gmail.com<br /></a></p>
-<p>&nbsp;</p>
+<p>Department of&nbsp;Physics<br />Yazd University<br />University Blvd &ndash; Safayieh<br />PO Box: 89195 &ndash; 741<br />Yazd, Iran<br />Room nr: 28<br />Phone: +98 -35-31233007 <br />Emails:&nbsp;<a href="mailto:mahaddad@yazd.ac.ir">mahaddad@yazd.ac.ir<br /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="mailto:mahaddad@ymail.com">mahaddad@ymail.com</a>&nbsp;</p>
 <p><strong>Working hours</strong></p>
 <p>Saturday- Thursday: 8:00-18:30 Hrs <br />(Phone until 17:30 Hrs)</p>
 </div>
