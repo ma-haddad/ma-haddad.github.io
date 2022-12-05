@@ -6,6 +6,17 @@ description: Materials for courses I taught. (Under construction !)
 nav: true
 nav_order: 5
 ---
+
+-title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
+      
 ## Graduate courses
 
 ### Fundamental Physics
