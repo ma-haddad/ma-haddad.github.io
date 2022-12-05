@@ -1,6 +1,6 @@
 ---
 layout: teaching2
-permalink: /teaching2/
+permalink: /Teaching/
 title: Teaching2
 description: Materials for courses I taught. (Under construction !)
 nav: true
