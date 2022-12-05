@@ -120,7 +120,7 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 # Comments
 disqus_shortname: ma-haddad # put your disqus shortname
