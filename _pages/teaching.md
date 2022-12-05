@@ -14,13 +14,13 @@ nav_order: 3
 
 ### Laser Physics
 - Referances: 
-  - ali
-  - ali
-  - ali
+  - a
+  - a
+  - a
 
 - Course Material:
-  - ali
-  - ali
-  - ali
+  - a
+  - a
+  - a
 
-The full lecture note are available here
+The lecture notes and slides are available here !
