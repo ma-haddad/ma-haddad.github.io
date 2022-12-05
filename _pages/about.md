@@ -2,8 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p>Assistant Professor of Atomic and Molecular Physics, Department of Physics, Yazd University </p>
-          
+subtitle: <p> Assistant Professor of Atomic and Molecular Physics, Department of Physics, Yazd University </p>
+ 
+ 
 profile:
   align: right
   image: prof_pic.jpg
@@ -27,23 +28,3 @@ As a scientist, I’m broadly interested in Optics, Lasers, and Spectroscopy, pa
 Prior to this, I was a guest researcher and Ph.D. student in the Department of Physics and Astronomy at Vrije University Amsterdam (VU Amsterdam) and Leiden University. I completed my Ph.D. thesis entitled “Cavity Ring-Down Laser Spectroscopy of Carbon-Chain Molecules” under the supervision of Prof. dr. Wim Ubachs (VU Amsterdam) and Prof. dr. Harrold Linnartz (Leiden University) and co-supervision of Dr. Dongfeng Zhao. In my thesis, I focused on high-resolution laser spectroscopy of carbon-based molecules in the laboratory and observation in space; diffuse interstellar bands. More details about my Ph.D. thesis can be found here. 
 
 Before I joined VU Amsterdam, I graduated with an M.Sc. in atomic and molecular physics from Yazd University. In my Master’s thesis, I experimentally studied selective multiphoton absorption and multiphoton dissociation of polyatomic molecular isotopologues using a high-power pulsed gas laser. I completed My M.Sc thesis under the supervision of Prof. dr. Abbas Behjat and advised by Eng. Kaveh Silakhori.
-
-
-Employment Records
-
--Director of International Scientific Cooperation office of Yazd University, Yazd, Iran. (Current Position)
--Deputy Director of International Scientific Cooperation office of Yazd University, Yazd, Iran. (Sep 2017 – Apr 2018)
--Assistant Professor, Yazd University, Department of Physics, Yazd, Iran (Current Position)
--Guest Researcher, VU University Amsterdam, Amsterdam, Netherlands.
--Ph.D. Researcher, VU University Amsterdam, Amsterdam, Netherlands.
--Lecturer, Azad University of Tehran, Tehran, Iran.
--Researcher, Plasma, and Fusion Research Center of Tehran, Iran
--Researcher, Laser Research Center of Tehran, Tehran, Iran.
--Teacher, School of Physics, Hariri Science Center, Iran.
-
-### Professional Memberships
-
--Member of Physics Society of Iran (www.psi.ir)
--Member of Optics and Photonics Society of Iran (www.opsi.ir)
--Member of Astronomy Society of Iran (www.asi.ir)
-
