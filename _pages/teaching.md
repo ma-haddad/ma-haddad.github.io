@@ -1,8 +1,8 @@
 ---
-layout: teaching2
+layout: page
 permalink: /Teaching/
-title: Teaching2
+title: Teaching
 description: Materials for courses I taught. (Under construction !)
 nav: true
-nav_order: 5
+nav_order: 3
 ---
