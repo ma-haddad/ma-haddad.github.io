@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 permalink: /teaching/
 title: Teaching
 description: Materials for courses I taught. (Under construction !)
