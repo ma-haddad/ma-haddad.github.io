@@ -1,8 +1,8 @@
 ---
-layout: page
-permalink: /data/teaching2.yml
-title: Teaching
+layout: teaching2
+permalink: /teaching2/
+title: Teaching2
 description: Materials for courses I taught. (Under construction !)
 nav: true
-nav_order: 4
+nav_order: 5
 ---
