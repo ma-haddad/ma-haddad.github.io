@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 
-### Spring 2023 - Schedule of Classes
+## Spring 2023 - Schedule of Classes
 
 
 ### Advanced Laser Physics (Postgraduate course)
