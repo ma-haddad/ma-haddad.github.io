@@ -7,6 +7,6 @@ dropdown: true
 children: 
     - title: Gallery
       permalink: /Phd/
-    - title: Blog
+    - title: Personal Blog (in Farsi)
       permalink: /Current Research/
 ---
