@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Misc.
 nav: ture
 nav_order: 6
 dropdown: true
