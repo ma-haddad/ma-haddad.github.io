@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Research2
+title: Research
 nav: ture
-nav_order: 5
+nav_order: 3
 dropdown: true
 children: 
-    - title: publications
+    - title: Ph.D. Thesis
       permalink: /Phd/
-    - title: projects
+    - title: Current Research
       permalink: /Current Research/
 ---
