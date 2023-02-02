@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: pub
 permalink: /Publications/
 title: Publications
 description: publications by categories in reversed chronological order. 
