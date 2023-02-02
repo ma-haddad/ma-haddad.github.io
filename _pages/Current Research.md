@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Current Research
 permalink: /Current Reseach/
 description: A growing collection of your cool projects.
 nav: true
