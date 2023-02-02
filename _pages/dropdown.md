@@ -6,7 +6,7 @@ nav_order: 5
 dropdown: true
 children: 
     - title: publications
-      permalink: /publications/
+      permalink: /Phd/
     - title: projects
       permalink: /projects/
 ---
