@@ -1,5 +1,5 @@
 ---
-layout: pub
+layout: page
 permalink: /Publications/
 title: Publications
 description: publications by categories in reversed chronological order. 
