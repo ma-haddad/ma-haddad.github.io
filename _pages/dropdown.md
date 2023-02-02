@@ -8,5 +8,5 @@ children:
     - title: publications
       permalink: /Phd/
     - title: projects
-      permalink: /projects/
+      permalink: /Current Research/
 ---
