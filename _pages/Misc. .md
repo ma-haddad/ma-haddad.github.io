@@ -5,8 +5,8 @@ nav: ture
 nav_order: 5
 dropdown: true
 children: 
-    - title: Ph.D. Thesis
+    - title: Gallery
       permalink: /Phd/
-    - title: Current Research
+    - title: Blog
       permalink: /Current Research/
 ---
