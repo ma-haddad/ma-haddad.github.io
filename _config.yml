@@ -234,7 +234,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Haddad]
-  first_name: [M.Ali, M.A, Mohammad Ali, MA]
+  first_name: [M. Ali, M.A, Mohammad Ali, MA]
 
   style: apa
   locale: en
