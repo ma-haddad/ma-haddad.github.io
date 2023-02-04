@@ -10,11 +10,11 @@ nav_order: 3
 
 ## Spring 2023 - Schedule of Classes
 
-image: mahaddadphoto.jpg
-### Advanced Laser Physics (Postgraduate course)
 
-### Optics and Laser Laboratory  (Postgraduate course)
+#### Advanced Laser Physics (Postgraduate course)
 
-### Spectrsocopy  (Graduate course)
+#### Optics and Laser Laboratory  (Postgraduate course)
 
-### Analytical Mechanics (I)  (Graduate course)
+#### Spectrsocopy  (Graduate course)
+
+#### Analytical Mechanics (I)  (Graduate course)
