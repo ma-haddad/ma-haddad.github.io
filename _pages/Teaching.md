@@ -4,7 +4,7 @@ permalink: /Teaching/
 title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 
-# Under Construction For new semester!
+# Under Construction for new semester!
