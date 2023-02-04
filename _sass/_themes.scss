@@ -9,7 +9,7 @@
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$green-color};
   --global-hover-color: #{$green-color};
-  --global-footer-bg-color: #{$green-color-dark};
+  --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
@@ -40,7 +40,7 @@ html[data-theme='dark'] {
   --global-text-color-light: #{$grey-color-light};
   --global-theme-color: #{$green-color};
   --global-hover-color: #{$green-color};
-  --global-footer-bg-color: #{$green-color-light};
+  --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
