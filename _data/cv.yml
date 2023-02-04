@@ -79,11 +79,11 @@
         -	Laboratory Astrophysics
 
 - title: Hubbbies
-  type: list
+  type: nested_list
   contents:
       items: 
         - Cooking
         -	Clagraphy 
-        -	Taekwondo
+        -	Taekwondo and Running
         -	Reading book
 
