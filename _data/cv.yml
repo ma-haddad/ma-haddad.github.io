@@ -8,7 +8,7 @@
     - name: Place of Birth
       value: Tehran-Iran
     - name: Languages
-      value: Persian(native), English(fluent), Dutch (beginner)
+      value: Persian(native), English (fluent), Dutch (beginner)
 
 - title: Education
   type: time_table
@@ -48,11 +48,20 @@
       institution: Laser Research Center, Tehran-Iran 
       year: 2004-2007
     - title: Lecturer
-      institution: Azad University (Tehran North Branch), Tehran-Iran
+      institution: Azad University (Tehran-North Branch), Tehran-Iran
       year: 2004-2009
     - title: Teacher
       institution: Hariri Science Foundation, Babol-Iran
       year: 2000—2004
+      
+- title: Professional membership
+  type: nested_list
+  contents:
+    - title:
+      items:
+        - Member of Optic and Photonics Society of Iran
+        - Member of Physics Society of Iran
+        - Member of Astronomy Society of Iran 
 
 - title: Academic Interests
   type: nested_list
