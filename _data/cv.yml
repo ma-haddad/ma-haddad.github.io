@@ -57,6 +57,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
+    - title:
       items:
         - Laser Spectroscopy
         - Applied Spectroscopy 
