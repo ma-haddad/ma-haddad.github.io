@@ -54,24 +54,17 @@
       institution: Hariri Science Foundation, Babol-Iran
       year: 2000—2004
 
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2009
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - MSRT Fully Funded Ph.D Scholarship 
+        - Frist-Ranked post-graduate student (M.Sc)-Yazd University  
+    - year: 2004
       items: 
-        - Max Planck Medal
+        - Top 3% ranked graduate student (B.Sc)-Mazandaran University
+
 
 - title: Academic Interests
   type: nested_list
