@@ -55,7 +55,7 @@
     - title: Teacher
       institution: Hariri Science Foundation, Babol-Iran
       year: 2000—2004
-    
+
 - title: Honors and Awards
   type: time_table
   contents: 
@@ -66,13 +66,13 @@
     - year: 2004
       items: 
         - Top 5%-Ranked graduate student (B.Sc)-Mazandaran University
-        
-- title: Academic Interests
+ 
+ - title: Academic Interests
   type: nested_list
   contents:
     - title: h
       
-- title: Other Intrests
+ - title: Other Intrests
   type: list
   contents:
     - <u>Hobbies:</u> Cooking, Calligraphy, Taekwondo and Running, Reading, etc.
