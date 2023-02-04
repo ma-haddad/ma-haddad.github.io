@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<!-- _layouts/Teaching.html -->
+        <div class="post">
+
+          <header class="post-header">
+            <h1 class="post-title">{{ page.title }} {% if page.Teaching_pdf %}<a href="{{ page.Teaching_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
+            <p class="post-description">{{ page.description }}</p>
+          </header>
+
+          <article>
+            <div class="Teaching">
+              {% for entry in site.data.Teaching %}
+                <div class="card mt-3 p-3">
+                  <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+                  <div>
+                  {% if entry.type == "list" %}
+                    {% include Teaching/list.html %}
+                  {% elsif entry.type == "map" %}
+                    {% include Teaching/map.html %}
+                  {% elsif entry.type == "nested_list" %}
+                    {% include Teaching/nested_list.html %}
+                  {% elsif entry.type == "time_table" %}
+                   {% include Teaching/time_table.html %}
+                  {% else %}
+                    {{ entry.contents }}
+                  {% endif %}
+                  </div>
+                </div>
+              {% endfor %}
+              </div>
+          </article>
+
+        </div>
