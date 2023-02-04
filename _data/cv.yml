@@ -57,14 +57,15 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Laser Spectroscopy
-    - title: Applied Spectroscopy 
-    - title: Experimental Physics
-    - title: Non-linear optics
-    - title: Molecular Physics.
-    - title: Laboratory Astrophysics
+      items:
+        - Laser Spectroscopy
+        - Applied Spectroscopy 
+        - Experimental Physics
+        - Non-linear optics
+        - Molecular Physics.
+        - Laboratory Astrophysics
      
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Calligraphy, Running, Cocking, taekwondo, etc.
