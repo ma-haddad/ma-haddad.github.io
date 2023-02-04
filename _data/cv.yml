@@ -54,30 +54,16 @@
       institution: Hariri Science Foundation, Babol-Iran
       year: 2000—2004
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2009
-      items: 
-        - MSRT Fully Funded Ph.D Scholarship 
-        - Frist-Ranked post-graduate student (M.Sc)-Yazd University  
-    - year: 2004
-      items: 
-        - Top 3% ranked graduate student (B.Sc)-Mazandaran University
-
-
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
+    - title: Laser Spectroscopy
+    - title: Applied Spectroscopy 
+    - title: Experimental Physics
+    - title: Non-linear optics
+    - title: Molecular Physics.
+    - title: Laboratory Astrophysics
+     
 - title: Other Interests
   type: list
   contents:
