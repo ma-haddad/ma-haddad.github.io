@@ -5,12 +5,8 @@
       value: Mohammad Ali Haddad
     - name: Date of Birth
       value: 4th September 1980
-    - name: Nationality
-      value: Iranian
     - name: Languages
       value: Persian, English, Dutch, Arabic
-    - name: Marital Status
-      value: Married (Father of Hana, Raadmehr, and Ryan)
       		
 - title: Education
   type: time_table
