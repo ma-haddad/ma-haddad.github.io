@@ -5,9 +5,13 @@
       value: Mohammad Ali Haddad
     - name: Date of Birth
       value: 4th September 1980
+    - name: Nationality
+      value: Iranian
     - name: Languages
       value: Persian, English, Dutch, Arabic
-
+    - name: Marital Status
+      value: Married (Father of Hana, Raadmehr, and Ryan)
+      		
 - title: Education
   type: time_table
   contents:
@@ -58,24 +62,28 @@
     - year: 2009
       items: 
         - MSRT Fully Funded Ph.D Scholarship 
-        - Frist-Ranked post-graduate Student (M.Sc)-Yazd University  
+        - Frist-Ranked post-graduate student (M.Sc)-Yazd University  
     - year: 2004
       items: 
-        - Top 5%-Ranked graduate Student (B.Sc)-Mazandaran University
+        - Top 5%-Ranked graduate student (B.Sc)-Mazandaran University
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Applied Spectroscopy
+        -	Experimental Physics 
+        -	Optics, Applied Laser Spectroscopy 
+        -	Non-linear optics 
+        -	Molecular Physics 
+        -	Laboratory Astrophysics
 
-- title: Other Interests
+- title: Hubbbies
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+      items: 
+        - Cooking
+        -	Clagraphy 
+        -	Taekwondo
+        -	Reading book
+
