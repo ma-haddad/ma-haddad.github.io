@@ -71,10 +71,7 @@
   type: nested_list
   contents:
     - title: h
-      items: 
-        - SPEC
-        - 
-   
+      
 - title: Other Intrests
   type: list
   contents:
