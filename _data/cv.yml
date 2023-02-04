@@ -68,7 +68,7 @@
   contents:
     - title: Topic 1.
       items: 
-        - Description 1.
+        - spec.
         - Description 2.
     - title: Topic 2.
       items:
