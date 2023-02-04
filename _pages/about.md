@@ -7,7 +7,7 @@ subtitle: <p> Assistant Professor of Atomic and Molecular Physics, Department of
  
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mahaddadphoto.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Faculty of Science</p>
