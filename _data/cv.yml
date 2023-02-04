@@ -67,24 +67,3 @@
       items: 
         - Top 5%-Ranked graduate student (B.Sc)-Mazandaran University
 
-- title: Academic Interests
-  type: time_table
-  contents:
-    - year: 2023
-      items: 
-        - Applied Spectroscopy
-        - Experimental Physics 
-        - Optics, Applied Laser Spectroscopy 
-        - Non-linear optics 
-        - Molecular Physics 
-        - Laboratory Astrophysics
-
-- title: Hubbbies
-  type: time_table
-  contents:
-    - year: 2023
-      items: 
-        - Cooking
-        - Clagraphy 
-        - Taekwondo and Running
-        - Reading book
