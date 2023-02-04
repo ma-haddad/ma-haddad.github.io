@@ -61,16 +61,4 @@
         - Frist-Ranked post-graduate student (M.Sc)-Yazd University  
     - year: 2004
       items: 
-        - Top 3% ranked graduate student (B.Sc)-Mazandaran University
-        
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - spec.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Top 3% ranked graduate student (B.Sc)-Mazandaran University 
