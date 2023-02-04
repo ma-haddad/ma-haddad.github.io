@@ -5,8 +5,10 @@
       value: Albert Einstein
     - name: Date of Birth
       value: 14th March 1879
+    - name: Place of Birth
+      value: Tehran-Iran
     - name: Languages
-      value: English, German
+      value: Persian(native), English(fluent), Dutch (beginner)
 
 - title: Education
   type: time_table
