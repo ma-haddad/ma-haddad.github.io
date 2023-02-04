@@ -1,12 +1,12 @@
-- title: General Information333
+- title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mohammad Ali Haddad
     - name: Date of Birth
-      value: 14th March 1879
+      value: 4th September 1980
     - name: Languages
-      value: English, German
+      value: Persian, English, Dutch, Arabic
 
 - title: Education
   type: time_table
