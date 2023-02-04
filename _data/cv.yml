@@ -61,7 +61,7 @@
         - Frist-Ranked post-graduate student (M.Sc)-Yazd University  
     - year: 2004
       items: 
-        - Top 5%-Ranked graduate student (B.Sc)-Mazandaran University
+        - Top 3% ranked graduate student (B.Sc)-Mazandaran University
         
 - title: Academic Interests
   type: nested_list
@@ -74,8 +74,3 @@
       items:
         - Description 1.
         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
