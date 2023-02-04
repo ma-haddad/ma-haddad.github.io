@@ -62,13 +62,3 @@
     - year: 2004
       items: 
         - Top 5%-Ranked graduate student (B.Sc)-Mazandaran University
- 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: h
-      
-- title: Other Intrests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Cooking, Calligraphy, Taekwondo and Running, Reading, etc.
