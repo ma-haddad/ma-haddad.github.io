@@ -70,7 +70,7 @@
 - title: Academic Interests
   type: time_table
   contents:
-     - year: 
+    - year: 1
       items: 
         - Applied Spectroscopy
         - Experimental Physics 
@@ -82,7 +82,7 @@
 - title: Hubbbies
   type: time_table
   contents:
-    - year:
+    - year: 1
       items: 
         - Cooking
         - Clagraphy 
