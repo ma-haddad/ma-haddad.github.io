@@ -8,7 +8,7 @@
     - name: Place of Birth
       value: Tehran-Iran
     - name: Languages
-      value: Persian(native), English (fluent), Dutch (beginner)
+      value: Persian(native), Tabari(native), English (fluent), Dutch (beginner), Turkish (beginner)
 
 - title: Education
   type: time_table
