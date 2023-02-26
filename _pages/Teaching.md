@@ -9,13 +9,16 @@ nav_order: 5
 #### Academic Calendar - Spring Semester 2023
 
 ##### -- Advannced Laser Physics 
+         Course materials can be found here
 
 ##### -- Adnavced Optics and Laser Lab
+         Course materials can be found here
 
 ##### -- Analytical Mechnics
+         Course materials can be found here
 
 ##### -- Fundemantal Physics
-
+         Course materials can be found here
 
 #### Academic Calendar - current Semester
 
