@@ -12,7 +12,7 @@ nav_order: 5
 	<tbody>
 		<tr>
 			<td><span style="color:#3498db">Advannced Laser Physics&nbsp;</span></td>
-			<td>Course materials can be found [here](<a href="https://el-13.yazd.ac.ir/course/view.php?id=69386">herer</a>)</td>
+			<td>Course materials can be found <a href="https://el-13.yazd.ac.ir/course/view.php?id=69386">here</a></td>
 		</tr>
 		<tr>
 			<td>Adnavced Optics and Laser Lab</td>
