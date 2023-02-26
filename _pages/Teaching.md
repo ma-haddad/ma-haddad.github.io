@@ -8,13 +8,13 @@ nav_order: 5
 ---
 #### Academic Calendar - Spring Semester 2023
 
-##### Advannced Laser Physics 
+##### -- Advannced Laser Physics 
 
-##### Adnavced Optics and Laser Lab
+##### -- Adnavced Optics and Laser Lab
 
-##### Analytical Mechnics
+##### -- Analytical Mechnics
 
-##### Fundemantal Physics
+##### -- Fundemantal Physics
 
 
 #### Academic Calendar - current Semester
