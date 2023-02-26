@@ -9,7 +9,7 @@ nav_order: 5
 #### Academic Calendar - Spring Semester 2023
 
 ##### -- Advannced Laser Physics 
-         Course materials can be found [here](https://el-13.yazd.ac.ir/course/view.php?id=69386)
+Course materials can be found [here](https://el-13.yazd.ac.ir/course/view.php?id=69386)
 
 ##### -- Adnavced Optics and Laser Lab
          Course materials can be found [here]()
