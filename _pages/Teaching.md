@@ -12,7 +12,7 @@ nav_order: 5
 	<tbody>
 		<tr>
 			<td style="width:391px">
-			<p><span style="color:#000000">&nbsp;Advanced Laser Physics&nbsp;</span></p>
+			<p><span style="color:#000000">&nbsp;Advanced Laser Physics</span></p>
 			</td>
 			<td style="text-align:center; width:395px">Course materials can be found <strong><a href="https://el-13.yazd.ac.ir/course/view.php?id=69386">here</a></strong></td>
 		</tr>
@@ -32,7 +32,9 @@ nav_order: 5
 			<td style="width:391px">
 			<p><span style="color:#000000">&nbsp;Fundemantal Physics</span></p>
 			</td>
-			<td style="text-align:center; width:395px">Course materials can be found <strong><a href="https://el.yazd.ac.ir/sso/home.php">here</a></strong></td>
+			<td style="text-align:center; width:395px">
+			<p>Course materials can be found <strong><a href="https://el.yazd.ac.ir/sso/home.php">here</a></strong></p>
+			</td>
 		</tr>
 	</tbody>
 </table>
@@ -40,4 +42,6 @@ nav_order: 5
 <p>&nbsp;</p>
 
 <p><strong>Academic Calendar - Spring Semester 2023</strong></p>
+
+
 <iframe src="https://calendar.google.com/calendar/embed?src=0ppu0k1mki0uelh3kgamrj8k18%40group.calendar.google.com&ctz=Asia%2FTehran" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
