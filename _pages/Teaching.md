@@ -16,15 +16,15 @@ nav_order: 5
 		</tr>
 		<tr>
 			<td>Adnavced Optics and Laser Lab</td>
-			<td>Course materials can be found [here]</td>
+			<td>Course materials can be found <a href="https://el-13.yazd.ac.ir/course/view.php?id=69387">here</a></td>
 		</tr>
 		<tr>
 			<td>Analytical Mechnics</td>
-			<td>Course materials can be found [here]</td>
+			<td>Course materials can be found <a href="https://el-13.yazd.ac.ir/course/view.php?id=69949">here</a></td>
 		</tr>
 		<tr>
 			<td>Fundemantal Physics</td>
-			<td>Course materials can be found [here]</td>
+			<td>Course materials can be found <a href="https://el.yazd.ac.ir/sso/home.php">here</a></td>
 		</tr>
 	</tbody>
 </table>
