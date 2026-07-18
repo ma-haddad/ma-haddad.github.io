@@ -7,12 +7,14 @@ nav: true
 nav_order: 2
 ---
 
-Hello
-
-
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
+
+Mehrnoush Ebadi, Mohammad Ali Haddad, Mohammad Rezaei-Pandari, 
+Khosro MadanipourMoiré Deflectometry: Unraveling the Link Between Fatty Acids and Nonlinear Refraction in Edible Oils.In preparation
+Links: PDF | DOI
+
 
 {% include bib_search.liquid %}
 
