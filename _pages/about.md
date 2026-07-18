@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I currently serve as an Assistant Professor in the Department of Physics at Yazd University, contributing to the Atomic and Molecular Physics group. My scientific endeavors are centered on Optics, Lasers, and Spectroscopy, with specialized interests in applied nonlinear optics, molecular physics, laboratory astrophysics, and the diverse applications of lasers in life and sciences.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My academic journey includes a Ph.D. from Vrije Universiteit Amsterdam (VU Amsterdam) and Leiden University, where I was a guest researcher and doctoral candidate. My dissertation, "Cavity Ring-Down Laser Spectroscopy of Carbon-Chain Molecules," explored the high-resolution spectroscopic characterization of carbon-based molecules. This research, supervised by Prof. Wim Ubachs (VU Amsterdam), Prof. Harrold Linnartz (Leiden University), and Dr. Dongfeng Zhao, aimed to bridge laboratory findings with astronomical observations, particularly concerning diffuse interstellar bands.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before my doctoral studies, I completed my M.Sc. in Atomic and Molecular Physics at Yazd University. My Master's thesis involved an experimental investigation into the selective multiphoton absorption and multiphoton dissociation of polyatomic molecular isotopologues using a high-power pulsed gas laser. This research was conducted under the guidance of Prof. Abbas Behjat and with the advisement of Eng. Kaveh Silakhori.
