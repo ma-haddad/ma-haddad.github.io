@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of Atomic and Molecular Physics, 
-          Department of PhysicsYazd University
+subtitle: Assistant Professor of Atomic and Molecular Physics
+          
 
 profile:
   align: center
