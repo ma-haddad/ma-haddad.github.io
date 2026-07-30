@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mohammad Ali Haddad"
+title                    : "Dr. Mohammad Ali Haddad"
 title_separator          : "|"
-name                     : "Mohammad Ali Haddad"
+name                     : "Dr. Mohammad Ali Haddad"
 description              : "Assistant Professor of Atomic and Molecular Physics"
 name                     : &name "Dr. Mohammad Ali Haddad"
 description              : &description "http://ma-haddad.github.io"   # Update this with a general description of your site, this is the default if not overridden by a page
