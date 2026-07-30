@@ -7,30 +7,30 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dr. Mohammad Ali Haddad"
-title_separator          : "|"
-name                     : &name "Dr. Mohammad Ali Haddad"
-description              : &description "http://ma-haddad.github.io"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://ma-haddad.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+locale                : "en-US"
+site_theme            : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                 : "Dr. Mohammad Ali Haddad"
+title_separator       : "|"
+name                  : &name "Dr. Mohammad Ali Haddad"
+description           : &description "http://ma-haddad.github.io"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                   : "https://ma-haddad.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ma-haddad/ma-haddad.github.io"
+baseurl               : # the subpath of your site, e.g. "/blog"
+repository            : "ma-haddad/ma-haddad.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my pic 2.jpg"
-  name             : "M. Ali Haddad"
-  pronouns         : # example: "she/her"  
-  bio              : "Assistant professor of Atomic and Molecular Physics"
-  location         : "Yazd"
-  employer         : "Yazd University"
-  uri              : "http://ma-haddad.github.io"
-  email            : "mahaddade@yazd.ac.ir" 
+  avatar             : "my pic 2.jpg"
+  name               : "M. Ali Haddad"
+  pronouns           : # example: "she/her"  
+  bio                : "Assistant professor of Atomic and Molecular Physics"
+  location           : "Yazd"
+  employer           : "Yazd University"
+  uri                : "http://ma-haddad.github.io"
+  email              : "mahaddade@yazd.ac.ir" 
 
   # Academic websites
 academia            : # URL
