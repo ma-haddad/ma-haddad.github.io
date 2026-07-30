@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Mohammad Ali Haddad / Academic Homepage"
 title_separator          : "-"
 name                     : &name "Mohammad Ali Haddad"
-description              : &description "https://ma-haddad.github.io"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Assistant professor of Atomic and Molecular Physics"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ma-haddad.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -30,7 +30,7 @@ author:
   location           : "Yazd"
   employer           : "Yazd University"
   uri                : "https://ma-haddad.github.io"
-  email              : "mahaddade@yazd.ac.ir" 
+  email              : "mahaddad AT yazd.ac.ir" 
 
   # Academic websites
   # Academic websites
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : "ma-haddad.github.io"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -71,7 +71,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : @mahaddad
+  telegram         : # Username
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
@@ -280,7 +280,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
