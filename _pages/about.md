@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;">
 I currently serve as an Assistant Professor in the Department of Physics at Yazd University, contributing to the Atomic and Molecular Physics group. My scientific endeavors are centered on Optics, Lasers, and Spectroscopy, with specialized interests in applied nonlinear optics, molecular physics, laboratory astrophysics, and the diverse applications of lasers in life and sciences.
 </div>
