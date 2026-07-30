@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mohammad Ali Haddad / Academic Homepage"
+title                    : "Dr. Mohammad Ali Haddad / Academic Homepage"
 title_separator          : "-"
 name                     : &name "Mohammad Ali Haddad"
 description              : &description "Assistant professor of Atomic and Molecular Physics"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,8 +24,8 @@ repository               : "ma-haddad.github.io"
 author:
   # Biographic information
   avatar             : "mypic.jpg"
-  name               : "M. Ali Haddad"
-  pronouns           : "Dr."  
+  name               : "Dr. M. Ali Haddad"
+  pronouns           : #"Dr."  
   bio                : "Assistant professor of Atomic and Molecular Physics"
   location           : "Yazd"
   employer           : "Yazd University"
