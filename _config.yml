@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Dr. Mohammad Ali Haddad"
 title_separator          : "Assistant professor of Atomic and Molecular Physics"
 name                     : &name "Mohammad Ali Haddad"
@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "M. Ali Haddad"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Assistant professor of Atomic and Molecular Physics"
+  location         : "Yazd"
   employer         : "Yazd University"
-  uri              : # URL
+  uri              : "http://ma-haddad.github.io"
   email            : "mahaddade@yazd.ac.ir" 
 
   # Academic websites
