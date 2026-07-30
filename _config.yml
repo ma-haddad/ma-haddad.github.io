@@ -35,18 +35,18 @@ author:
   email            : "mahaddade@yazd.ac.ir" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=v0HTET8AAAAJ&hl=en"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2542-0485"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : # 
-  researchgate     : "https://www.researchgate.net/profile/Mohammad-Haddad-3/research"
-  linkedin         : "https://www.linkedin.com/in/mohammad-ali-haddad-74441586/"
-  publons          : "https://www.webofscience.com/wos/author/record/F-9584-2016"
+academia: # URL
+arxiv: # URL - Update with the correct link to your profile
+googlescholar: "https://scholar.google.com/citations?user=v0HTET8AAAAJ&hl=en"
+inspire-hep: # URL
+impactstory: # URL
+orcid: "https://orcid.org/0000-0003-2542-0485"
+semantic: # URL
+ssrn: # URL
+pubmed: # URL
+researchgate: "https://www.researchgate.net/profile/Mohammad-Haddad-3/research"
+linkedin: "https://www.linkedin.com/in/mohammad-ali-haddad-74441586/"
+publons: "https://www.webofscience.com/wos/author/record/F-9584-2016"
 
 
   # Repositories and software development
