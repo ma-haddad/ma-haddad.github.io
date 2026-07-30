@@ -13,7 +13,7 @@ title                    : "Mohammad Ali Haddad / Academic Homepage"
 title_separator          : "-"
 name                     : &name "Mohammad Ali Haddad"
 description              : &description "https://ma-haddad.github.io"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://ma-haddad.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ma-haddad.github.io"
@@ -23,13 +23,13 @@ repository               : "ma-haddad.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar             : "my pic 2.jpg"
+  avatar             : "mypic.jpg"
   name               : "M. Ali Haddad"
-  pronouns           : # example: "she/her"  
+  pronouns           : "Dr."  
   bio                : "Assistant professor of Atomic and Molecular Physics"
   location           : "Yazd"
   employer           : "Yazd University"
-  uri                : "http://ma-haddad.github.io"
+  uri                : "https://ma-haddad.github.io"
   email              : "mahaddade@yazd.ac.ir" 
 
   # Academic websites
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ma-haddad.github.io"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -154,7 +154,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
