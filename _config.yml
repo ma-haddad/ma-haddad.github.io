@@ -8,6 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "contrast" # "default", "air", "sunrise", "mint", "dirt", "contrast", etc.
 site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Dr. Mohammad Ali Haddad / Academic Homepage"
 title_separator          : "-"
