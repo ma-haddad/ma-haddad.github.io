@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dr. Mohammad Ali Haddad / Academic Homepage"
+title                    : "Dr. Mohammad Ali Haddad"
 title_separator          : "-"
 name                     : &name "Mohammad Ali Haddad"
 description              : &description "Assistant professor of Atomic and Molecular Physics"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "ma-haddad.github.io"
 author:
   # Biographic information
   avatar             : "mypic.jpg"
-  name               : "Dr. M. Ali Haddad"
+  name               : "Dr. Mohammad Ali Haddad"
   pronouns           : #"Dr."  
   bio                : "Assistant professor of Atomic and Molecular Physics"
   location           : "Yazd"
@@ -124,7 +124,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : true     # change to true to hide the RSS feed in the footer
+  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
