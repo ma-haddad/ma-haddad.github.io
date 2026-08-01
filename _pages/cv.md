@@ -13,8 +13,3 @@ src="/files/MAHADDAD-RESUME(2025).pdf"
 width="100%" 
 height="800px">
 </iframe>
-
-<a class="btn btn-primary" 
-href="/files/MAHADDAD-RESUME(2025).pdf>
-Download Research Profile (PDF)
-</a>
